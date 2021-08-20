@@ -70,7 +70,7 @@
 			</div>
 			
 			<div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.12s">
-				<img src="_assets/images/urg-gigir.png" class="img-responsive" alt="about img">
+				<img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/urg-gigir.png" class="img-responsive" alt="about img">
 			</div>
 			<div class="col-md-6 col-sm-6 wow fadeInUp" data-wow-delay="0.10s">
 				<p>My Name Is <b>Raihan Akbar</b></p>
@@ -125,7 +125,7 @@
                			<div class="iso-box-wrapper col4-iso-box">
 
                				 <div class="iso-box html wordpress mobile col-lg-4 col-md-4 col-sm-6 col-xs-6">
-               				 	<a href="_assets/images/portfolio-img1.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img1.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img1.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img1.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box wordpress col-md-4 col-lg-4 col-sm-6 col-xs-6">
@@ -133,31 +133,31 @@
                				 </div>
 
                				 <div class="iso-box html mobile col-lg-4 col-md-4 col-sm-6 col-xs-12">
-               				 	<a href="_assets/images/portfolio-img3.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img3.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img3.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img3.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box wordpress col-lg-4 col-md-4 col-sm-6 col-xs-6">
-               				 	<a href="_assets/images/portfolio-img4.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img4.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img4.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img4.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box html photoshop col-lg-4 col-md-4 col-sm-6 col-xs-6">
-               				 	<a href="_assets/images/portfolio-img5.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img5.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img5.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img5.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box photoshop col-lg-4 col-md-4 col-sm-6 col-xs-12">
-               				 	<a href="_assets/images/portfolio-img6.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img6.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img6.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img6.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box photoshop mobile col-lg-4 col-md-4 col-sm-12 col-xs-6">
-               				 	<a href="_assets/images/portfolio-img7.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img7.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img7.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img7.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box photoshop mobile col-lg-4 col-md-4 col-sm-6 col-xs-6">
-               				 	<a href="_assets/images/portfolio-img8.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img8.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img8.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img8.jpg" alt="portfolio img"></a>
                				 </div>
 
                				 <div class="iso-box wordpress mobile col-lg-4 col-md-4 col-sm-6 col-xs-12">
-               				 	<a href="_assets/images/portfolio-img9.jpg" data-lightbox-gallery="portfolio-gallery"><img src="_assets/images/portfolio-img9.jpg" alt="portfolio img"></a>
+               				 	<a href="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img9.jpg" data-lightbox-gallery="portfolio-gallery"><img src="https://raw.githubusercontent.com/raihan-akbar/raihan-akbar.github.io/main/_assets/images/portfolio-img9.jpg" alt="portfolio img"></a>
                				 </div>
 
                			</div>
