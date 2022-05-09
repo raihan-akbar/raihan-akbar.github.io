@@ -48,57 +48,64 @@ p {
 
 /* start navigation */
 .custom-navbar {
-    background: #ffffff;
+    background: #404040;
+    background-color: #404040;
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-	color: #303030;
-	font-size: 40px;
+	color: #fff;
+	font-size: 24px;
+
 }
 .custom-navbar .navbar-brand .navbar-toggle {
-    background: #55acee;
+    background: #404040;
     padding: 4px 6px;
     font-size: 16px;
-    color: #fff;
+    color: #e4e4e4;
 }
 .custom-navbar .nav li a {
-    color: #505050;
-    font-size: 13px;
-    font-weight: bold;
+    color: #b6b6b6;
+    font-size: 12px;
+    font-weight: 400;
     letter-spacing: 4px;
     padding-right: 20px;
     padding-left: 20px;
 	transition: all 0.3s ease-in-out;
 }
 .custom-navbar .nav li a:hover {
-  	background: #FFD321;
+  	background: #404040;
   	transition: all 0.3s ease-in-out;
+    color: #fff;
 }
 .custom-navbar .nav > li > a:focus {
   	background-color: transparent;
   	outline: none;
+    font-weight: 400;
 }
 .custom-navbar .nav li.active > a {
-    background-color: #FFD321;
+    /*background-color: #fff;*/
+    /*text-decoration: underline;*/
+    color: #fff;
+    font-weight: medium;
 }
 .custom-navbar .navbar-toggle {
     border: none;
     padding-top: 10px;
 }
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #FFD321;
+    background: #fff;
     border-color: transparent;
 }
 @media(min-width:768px){
     .custom-navbar {
-            background: #ffffff;
-            padding: 14px;
-            border-bottom: 0;
-            background: 0 0;
+      background-color: #404040;
+      padding: 1px;
+      border-bottom: 0;
+      /*background: 0 0;*/
          }
     .custom-navbar.top-nav-collapse {
-            padding: 14px;
-            background: #fff;
+            padding: 1px;
+            background: #404040;
             border-bottom: 1px solid #eeeeee;
         }
 }
@@ -144,7 +151,7 @@ p {
 
 /* about section */
 #about .col-md-4 .fa {
-  background: #FFD321;
+  background: #404040;
   border-radius: 50%;
   color: #ffffff;
   font-size: 32px;
@@ -174,7 +181,7 @@ p {
   height: 6px;
 }
 #about .progress .progress-bar-primary {
-  background: #FFD321;
+  background: #404040;
 }
 
 /* portfolio section */
@@ -224,7 +231,7 @@ p {
 .filter-wrapper li .selected,
 .filter-wrapper li a:focus,
 .filter-wrapper li a:hover {
-    background: #FFD321;
+    background: #404040;
     color: #ffffff;
     outline: none;
   }
@@ -348,7 +355,7 @@ footer {
   margin-right: 10px;
 }
 .social-icon li a:hover {
-  background: #FFD321;
+  background: #404040;
 }
 
 /* copyright section */
@@ -365,7 +372,7 @@ footer {
 	color: #fff;
 }
 #copyright a:hover {
-	color: #FFD321;
+	color: #404040;
 	text-decoration: none;
 	transition: all 0.4s ease-in-out;
 }
@@ -382,7 +389,7 @@ footer {
   transition: all 0.4s ease-in-out;
 }
 #copyright .fa:hover {
-  background: #FFD321;
+  background: #404040;
   color: #000;
 }
 
